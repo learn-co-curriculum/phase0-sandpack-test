@@ -2,31 +2,17 @@
 
 ## Learning Goals
 
-- Learning Goal 1
-- Learning Goal 2
+- Example #1 - Code Editor + Jest tests
 
 ## Introduction
 
-A 1-2 sentence summary of what will be covered.
+Each example uses an iframe to embed a Sandpack React app at
+[https://linda-seiter.github.io/code-test-app/](https://linda-seiter.github.io/code-test-app/)
 
-## Topic 1
+## Example #1
 
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
+<iframe width="800" height="600" src="https://linda-seiter.github.io/code-test-app"></iframe>
 
-## Topic 2
+## Example #2
 
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
-
-## Conclusion
-
-A short one or two paragraph summary of the contents of the lessons, recapping
-the learning goals.
-
-## Resources
-
-- [Resource Link 1](example.com)
-- [Resource Link 2](example.com)
+<iframe width="800" height="600" src="https://linda-seiter.github.io/code-test-app/?question_id=q01"></iframe>
