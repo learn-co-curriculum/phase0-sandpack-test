@@ -2,13 +2,13 @@
 
 ## Introduction
 
-Each example uses an iframe request to
+Each example uses an iframe to embed a request to
 [https://linda-seiter.github.io/code-test-app/](https://linda-seiter.github.io/code-test-app/).
-The question id is passed as a query string parameter.
+The question id is passed as an optional parameter.
 
 ## Example #1: Editor + Console + Preview
 
-<iframe width="800" height="600" src="https://linda-seiter.github.io/code-test-app"></iframe>
+<iframe width="600"  src="https://linda-seiter.github.io/code-test-app"></iframe>
 
 ## Example #2: Editor + Console
 
