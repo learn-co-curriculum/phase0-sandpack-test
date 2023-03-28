@@ -15,16 +15,16 @@ The question id is passed as a query string parameter.
 
 ## Example #1
 
-<iframe width="800" height="800" src="https://linda-seiter.github.io/code-test-app"></iframe>
+<iframe width="800" height="600" src="https://linda-seiter.github.io/code-test-app"></iframe>
 
 ## Example #2
 
-<iframe width="800" height="800" src="https://linda-seiter.github.io/code-test-app/?question_id=q01"></iframe>
+<iframe width="800" height="600" src="https://linda-seiter.github.io/code-test-app/?question_id=q01"></iframe>
 
 ## Example #3
 
-<iframe width="800" height="800" src="https://linda-seiter.github.io/code-test-app/?question_id=q02"></iframe>
+<iframe width="800" height="600" src="https://linda-seiter.github.io/code-test-app/?question_id=q02"></iframe>
 
-## Example #2
+## Example #4
 
-<iframe width="800" height="800" src="https://linda-seiter.github.io/code-test-app/?question_id=q04"></iframe>
+<iframe width="800" height="600" src="https://linda-seiter.github.io/code-test-app/?question_id=q03"></iframe>
